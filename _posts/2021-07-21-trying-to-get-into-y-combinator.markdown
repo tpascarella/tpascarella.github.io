@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Trying to get into Y Combinator"
+title:  "SR50"
 date:   2021-07-20 22:19:43 -0500
 categories: startups
 ---
