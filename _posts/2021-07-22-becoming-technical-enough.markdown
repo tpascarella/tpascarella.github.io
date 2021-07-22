@@ -8,7 +8,7 @@ These are the things I wished someone had told me while trying to become technic
 
 1) Start Top-Down, as opposed to Bottom-Up.
 
-The whole point of programming is to build things. "Coding" is just the assembly part. Learning syntax is a waste of time because maybe only 1% of what you're learning will actually be relevant to the project you want to build. 
+The whole point of programming is to build things. "Coding" is just the assembly part, and is an order of magnitude less important than deciding you want to build something. Learning syntax is a waste of time because maybe only 1% of what you're learning will actually be relevant to the project you want to build. 
 
 2) Learn by doing.
 
