@@ -7,3 +7,5 @@ categories: startups
 Check out my startup SR50.
 
 SR50 is basically if the worlds greatest financial advisor was available as an app on your phone.
+
+Launching August 2021.
