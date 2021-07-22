@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Becoming "Technical Enough""
+title:  "Becoming 'Technical Enough'"
 date:   2021-07-20 22:19:43 -0500
 categories: technology
 ---
