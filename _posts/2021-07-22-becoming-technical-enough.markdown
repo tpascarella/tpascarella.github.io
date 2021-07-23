@@ -17,3 +17,7 @@ I wasted a lot of time cycling through endless videos, books, and freeCodeCamp c
 3) Google it.
 
 Every question you could possibly have has been answered on Google or StackOverflow. Every single one. It is an infinitely more productive use of time finding the person who already solved your problem than it is for you to try to solve it from scratch.
+
+4) Write Psuedocode first.
+
+Changes to your code base should be made incrementally. If you're testing your build locally and you make even one mistake, the entire thing might crash. If you implement changes one at a time, you are much less likely to break everything beyond repair. The number of times I've needed to just delete my repository and create a new app from scratch is embarassing. 
