@@ -4,6 +4,8 @@ title:  "Becoming Technical Enough To Be a Founder"
 date:   2021-07-20 22:19:43 -0500
 categories: technology
 ---
+Y Combinator has many videos on their youtube channel titled "How to build the future." The key word there is build. You can't change the world if you can't build the thing that will do it, meaning you have to become technical enough to build/launch your MVP in order to get a shot. 
+
 These are the things I wished someone had told me while trying to become technical enough to start a startup.
 
 1) Start Top-Down, as opposed to Bottom-Up.
