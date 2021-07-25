@@ -12,26 +12,33 @@ You can't change the world if you can't build the thing that will do it. This me
 
 1) Code Top-Down, not Bottom-Up.
 
-The whole point of programming is to build things. "Coding" is just the assembly part, and is just a means to the end of building what you want to have built. Learning syntax at the beginning largely is a waste of time because maybe only 1% of what you're learning will actually be relevant to the project you want to build.
+The whole point of programming is to build things. The "coding" part is just the assembly process. Think of Legos, the hard part is designing the legos into the spaceship you want, and coding is just the process of putting the right legos together in the right way to build it. It is a means to the end goal of building stuff, and learning syntax at the beginning largely is a waste of time. Maybe only 1% of what you're learning will actually be relevant to the project you want to build.
 
 2) Learn by doing.
 
-Like I said, I wasted a lot of time cycling through endless videos, books, and freeCodeCamp challenges before I finally heard George Hotz say "You will never learn programming by watching a video called 'learn programming.' The only way to learn programming is to keep pushing on a project." Once I switched from tutorials to an actual project, I had my MVP launched within a week. Build something. Anything! 
+I wasted a lot of time cycling through endless videos, books, and freeCodeCamp challenges before I finally heard George Hotz say "You will never learn programming by watching a video called 'learn programming.' The only way to learn programming is to keep pushing on a project." Once I switched from tutorials to an actual project, I had my MVP launched within a week. Build something. Anything.  
 
-"Even if it sucks?" Especially if it sucks.
+"Even if it sucks?" Especially if it sucks. You'll only learn where you're bad by encountering it.
 
 3) Google it.
 
-Every technical question you could possibly have has been answered on Google or StackOverflow. Every.single.one. It is infinitely more efficient finding the person who already solved your problem than it is for you to try to solve it from scratch. Shamelessly Google every programming question you have.
+Every technical question you could possibly have has already been answered on Google or StackOverflow. 
 
-4) Write Psuedocode first.
+Every.single.one. 
 
-Changes to your code base should be made incrementally. If you're testing your build locally and you make even one mistake, the entire thing might crash, and you're not technical enough yet to fix it. If you implement changes one at a time, you are much less likely to break everything beyond repair. The number of times I've needed to just delete my repository and create a new app from scratch is embarassing. 
+It is an infinitely more efficient use of time finding the person who already solved your problem than it is to solve everything problem from scratch. Don't learn from mistakes, learn from other people's mistakes. You can be successful a lot faster.
 
-5) Invest in tools.
+4) Write psuedocode first.
 
-Learning to code is a daunting task in and of itself. So you don't want the tools you use to present any more friction than is absolutely necessary. Get a mechanical keyboard off Amazon, buy a 2nd monitor, get some nice noise cancelling headphones, and a fancy gaming chair. Anything you can do to make the process easier, more pleasant, and more fun, the more you will do it. 
+This is the ultimate test of your programming ability. Buy a whiteboard. Pretend like you're the computer and write out the code that will do what you want. Once you do that, then go to your IDE, write it, and test. If it crashes, your thought process was wrong, and then you can use Google and Stack Overflow to figure it out. 
 
-6) Don't go at it alone.
+5) Iterate incrementally.
+Changes to your code base should be made incrementally. If you make 15 changes to your code base, and the program crashes, you have no idea which of the 15 changes caused it to crash. You're not yet technical enough to know which of the 15 changes caused the crash, and it will result in a lot of unnecessary frustration. The number of times I've needed to delete my repository and create a new app from scratch is embarassing. 
 
-Find a friend who is willing to help you, become active on Reddit forums, send LinkedIn messages to people who are doing the things you want to do. Surround yourself, either physically or digitally, with people who will elevate your skills, and you will raise your game to be accepted by the pack.
+6) Invest in tools.
+
+Learning to code is a daunting task in and of itself, so the tools that allow you to do it should make the process as seamless as possible. Get an RGB mechanical keyboard off Amazon, buy a 2nd monitor, get some nice noise cancelling headphones, and a fancy gaming chair. Anything you do to make the process easier, more pleasant, and more fun, will result in doing it more. 
+
+7) Don't go at it alone.
+
+Find a friend who is willing to help you, become active on Reddit forums, send LinkedIn messages to people who are doing the things you want to do. Surround yourself (either physically or digitally) with people who will elevate your skills, and you will raise your game to be accepted by the pack. Having even one person who believes in you can make the difference between success and failure.
