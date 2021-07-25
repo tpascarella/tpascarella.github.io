@@ -39,7 +39,7 @@ Changes to your code base should be made incrementally. If you make 15 changes t
 
 ## 6) Invest in tools.
 
-Learning to code is a daunting task in and of itself, so the tools that allow you to do it should make the process as seamless as possible. Get an RGB mechanical keyboard off Amazon, buy a 2nd monitor, get some nice noise cancelling headphones, a fancy gaming chair, and a couple of whiteboards. Anything you can do to make the process easier, more pleasant, and more fun, will result in you doing it more, and that's how you improve.
+Learning to code is a daunting task in and of itself, so the tools that allow you to do it should make the process as seamless as possible. Get an RGB mechanical keyboard off Amazon, buy a 2nd monitor, get some nice noise cancelling headphones, a fancy gaming chair, and a couple of whiteboards. Anything you can do to make the process easier, more pleasant, and more fun will result in you doing it more, and that's how you improve.
 
 ## 7) Don't go at it alone.
 
