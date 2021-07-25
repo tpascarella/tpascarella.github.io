@@ -6,7 +6,7 @@ categories: technology
 ---
 Y Combinator has many videos on their YouTube channel titled "How to Build the Future." 
 
-The key word here, is build. 
+The key word here, is **build**. 
 
 You can't change the world if you can't build the thing that will do it. This means that if you are a solo nontechnical founder, it is your responsibility to become technical enough to build/launch/iterate an MVP. These are the things I wished someone had told me while trying to become technical enough to start a startup.
 
