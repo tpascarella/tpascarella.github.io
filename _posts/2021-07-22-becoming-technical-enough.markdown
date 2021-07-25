@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Becoming Technical Enough To Be a Founder"
+title:  "Becoming Technical Enough To Be a Startup Founder"
 date:   2021-07-20 22:19:43 -0500
 categories: technology
 ---
