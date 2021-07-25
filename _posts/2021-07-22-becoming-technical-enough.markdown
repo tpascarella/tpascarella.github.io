@@ -30,7 +30,9 @@ It is an infinitely more efficient use of time finding the person who already so
 
 ## 4) Write psuedocode first.
 
-This is the ultimate test of your programming ability. Buy a whiteboard. Pretend like you're the computer and write out the code that will do what you want. Once you do that, then go to your IDE, write it, and test. If it crashes, your thought process was wrong, and then you can use Google and Stack Overflow to figure it out. 
+This is the ultimate test of your programming ability. Pretend like you're the computer and write out the code that will do what you want. Once you do that, then go to your IDE, write it, and test. If it crashes, your thought process was wrong, and then you can use Google and Stack Overflow to figure it out. 
+
+It's important to handwrite your psuedocode on a whiteboard, writing things with your hands requires motor skills, which is controlled in both hemispheres of the brain. Education researches have discovered that handwritten notes result in more learning than notes taken on a keyboard.
 
 ## 5) Iterate incrementally.
 Changes to your code base should be made incrementally. If you make 15 changes to your code base, and the program crashes, you have no idea which of the 15 changes caused it to crash. You're not yet technical enough to know which of the 15 changes caused the crash, and it will result in a lot of unnecessary frustration. The number of times I've needed to delete my repository and create a new app from scratch is embarassing. 
