@@ -4,11 +4,13 @@ title:  "Becoming Technical Enough To Be a Startup Founder"
 date:   2021-07-20 22:19:43 -0500
 categories: technology
 ---
-Y Combinator has many videos on their youtube channel titled "How to build the future." The key word there is build. You can't change the world if you can't build the thing that will do it, meaning you have to become technical enough to build/launch your MVP in order to get a shot. 
+Y Combinator has many videos on their YouTube channel titled "How to Build the Future." 
 
-These are the things I wished someone had told me while trying to become technical enough to start a startup.
+The key word here, is build. 
 
-1) Start Top-Down, as opposed to Bottom-Up.
+You can't change the world if you can't build the thing that will do it. This means that if you are a solo nontechnical founder, it is your responsibility to become technical enough to build/launch/iterate an MVP. These are the things I wished someone had told me while trying to become technical enough to start a startup.
+
+1) Code Top-Down, not Bottom-Up.
 
 The whole point of programming is to build things. "Coding" is just the assembly part, and is just a means to the end of building what you want to have built. Learning syntax at the beginning largely is a waste of time because maybe only 1% of what you're learning will actually be relevant to the project you want to build.
 
