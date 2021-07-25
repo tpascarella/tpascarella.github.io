@@ -41,4 +41,4 @@ Learning to code is a daunting task in and of itself, so the tools that allow yo
 
 ## 7) Don't go at it alone.
 
-Find a friend who is willing to help you, become active on Reddit forums, send LinkedIn messages to people who are doing the things you want to do. Surround yourself (either physically or digitally) with people who will elevate your skills, and you will raise your game to be accepted by the pack. Having even one person who believes in you can make the difference between success and failure.
+Find a friend who is willing to help you, become active on Reddit forums, send LinkedIn messages to people who are doing the things you want to do. Surround yourself (either physically or digitally) with people who will elevate your skills, and you will raise your game to be accepted by the pack. Having **even one person** who believes in you can make the difference between success and failure.
