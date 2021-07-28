@@ -56,4 +56,4 @@ Every time you code should elevate your skills, ambition, and confidence, even i
 
 This is a graph showing the viral coefficient of a consumer product. If every user brings in 1.01 new users to the site, you will be in this happy place of compounding exponential growth forever. But if each user only brings in .99, the company will inevitably flatline and die. 
 
-This is just one concrete example of how the tinyest bit more effort compounded over time can make the difference between massive suceess and failure. Learn at least one new thing every time you code, and nothing can slow you down.
+This is just one concrete example of how the tiniest bit more effort compounded over time can make the difference between massive suceess and failure. Learn at least one new thing every time you code, and nothing can slow you down.
