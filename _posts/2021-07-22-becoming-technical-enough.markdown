@@ -18,9 +18,13 @@ The whole point of programming is to build things. The "coding" part is merely t
 
 I wasted a lot of time cycling through endless videos, books, and freeCodeCamp challenges before I finally heard George Hotz say "You will never learn programming by watching a video called 'learn programming'. The only way to learn programming is to keep pushing on a project." Once I switched from tutorials to an actual project, I had my MVP launched within a week. 
 
-So build something. Anything.  
+![freeCodeCamp](/assets/fcc.png)
 
-*"Even if it sucks?"* Especially if it sucks. 
+Tutorials will not teach you anything.
+
+![GitHub](/assets/github.png)
+
+Building things will.
 
 ## 3) Google it.
 
