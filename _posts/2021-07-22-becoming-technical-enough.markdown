@@ -10,7 +10,7 @@ The key word here, is **build**.
 
 You can't change the world if you can't build the thing that will do it. This means that if you are a solo nontechnical founder, it is your responsibility to become technical enough to build/launch/iterate an MVP. These are the things I wished someone had told me while trying to become technical enough to start a startup.
 
-## 1) Code Top-Down, not Bottom-Up.
+## 1) "Coding" isn't as big a deal as you think.
 
 The whole point of programming is to build things. The "coding" part is merely the assembly portion. It is a means to the end goal of building stuff, and all of the other stuff, which language to learn, which IDE to use, design patterns, are an order of magnitude less important than building what you want. Learning syntax is a waste of time because maybe only 1% of what you're learning will actually be relevant to the project you want to build.
 
