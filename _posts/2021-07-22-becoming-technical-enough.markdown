@@ -56,9 +56,9 @@ Find a friend who is willing to help you, become active on Reddit forums, send L
 
 No matter how good you get, how long you've worked in the industry, you will never feel like you've mastered this stuff. Only that you're capable of figuring it out.
 
-You will feel like a massive idiot every single day. Every line of code you write will crash your program, your terminal will give you an error that wasn't there yesterday, and it will feel like your Macbook is conspiring against you to pick a different career path. 
+It will feel like every line of code you write will crash your program, your terminal will give you an error that wasn't there yesterday, and your Macbook is conspiring against you to pick a different career path. 
 
-You're gonna feel really stupid, all the time. Such is life. 
+You're gonna feel really stupid every single day. Such is life. 
 
 ## 9) Never lose momentum.
 
