@@ -52,7 +52,15 @@ Learning to code is a daunting task in and of itself, so the tools that allow yo
 
 Find a friend who is willing to help you, become active on Reddit forums, send LinkedIn messages to people who are doing the things you want to do. Surround yourself (either physically or digitally) with people who will elevate your skills, and you will raise your game to be accepted by the pack. Having **just one person** who believes in you can make the difference between success and failure.
 
-## 8) Never lose momentum.
+## 8) Get comfortable feeling stupid.
+
+No matter how good you get, how long you've worked in the industry, you will never feel like you've mastered this stuff. Only that you're capable of figuring it out.
+
+You will feel like a massive idiot every single day. Every line of code you write will crash your program, your terminal will give you an error that wasn't there yesterday, and it will feel like your Macbook is conspiring against you to pick a different career path. 
+
+You're gonna feel really stupid, all the time. Such is life. 
+
+## 9) Never lose momentum.
 
 Every time you code should elevate your skills, ambition, and confidence, even if just by a little bit. The following graph represents this point nicely. 
 
