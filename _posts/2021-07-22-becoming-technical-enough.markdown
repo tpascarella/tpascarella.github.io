@@ -69,3 +69,9 @@ Every time you code should elevate your skills, ambition, and confidence, even i
 This is a graph showing the viral coefficient of a consumer product. If every user brings in 1.01 new users to the site, you will be in this happy place of compounding exponential growth forever. But if each user only brings in .99, the company will inevitably flatline and die. 
 
 This is just one concrete example of how the tiniest bit more effort compounded over time can make the difference between massive suceess and failure. Learn at least one new thing every time you code, and nothing can slow you down.
+
+## 10) Change sports.
+
+Programming is a bottomless pit of things to learn, and it's real easy to stick with what you know and what you're currently good at. If you're a front end developer, take on some back end projects. If you are a strong Python programmer, try recreating your projects in Java.
+
+Most of the goal here is to gain exposure and experience with a wide variety of technologies, languages, and applications. More practice won't make you better if you're just flexing what you know, go do something you're bad it. You'll learn faster.
