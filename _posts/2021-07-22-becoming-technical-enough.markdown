@@ -8,11 +8,11 @@ Y Combinator has many videos on their YouTube channel titled "How to Build the F
 
 The key word here, is **build**. 
 
-You can't change the world if you can't build the thing that will do it. This means that if you are a solo nontechnical founder, it is your responsibility to become technical enough to build/launch/iterate an MVP. These are the things I wished someone had told me while trying to become technical enough to start a startup.
+You can't change the world if you literally cannot build the thing that will change the world. This means that if you are a solo nontechnical founder, it is your responsibility to become technical enough to build/launch/iterate an MVP. These are the things I wished someone had told me while trying to become technical enough to start a startup.
 
 ## 1) "Coding" isn't as big a deal as you think.
 
-The whole point of programming is to build things. The "coding" part is merely the *assembly* portion. It is a means to the end goal of building stuff, and all of the other stuff, which language to learn, which IDE to use, design patterns, are an order of magnitude less important than building what you want. Learning syntax is a waste of time because maybe only 1% of what you're learning will actually be relevant to the project you want to build.
+The whole point of programming is to build things. The "coding" part is merely the *assembly* portion. It is a means to the end goal of building stuff. All of the other stuff, which language to learn, which IDE to use, design patterns, are *an order of magnitude less important* than building what you want. Learning syntax is largely a waste of time because maybe 1% of what you're learning will be relevant to the project you want to build, and that will result in unnecessary frustration.
 
 ## 2) Learn by doing.
 
@@ -20,8 +20,7 @@ I wasted a lot of time cycling through endless videos, books, and freeCodeCamp c
 
 ![freeCodeCamp](/assets/fcc.png)
 
-Tutorials will not teach you anything.
-
+Tutorials will not teach you programming
 ![GitHub](/assets/github.png)
 
 Building things will.
@@ -36,7 +35,7 @@ It is an infinitely more efficient use of your time *finding the person who alre
 
 ## 4) Write psuedocode first.
 
-The whiteboard is the ultimate test of your programming ability. Pretend like you're the computer and write out the code that will do what you want. Once you do that, then go to your IDE, write it, and test. If it crashes, your thought process was wrong, go to Google and Stack Overflow to figure it out. 
+The whiteboard is the ultimate test of your programming ability. Pretend like you're the computer and write out the code that will do what you want. Once you do that, then go to your IDE, write it, and test. If it crashes, your thought process was wrong, then go to Google and Stack Overflow to figure it out. 
 
 As an extension, it's important to handwrite your psuedocode on a whiteboard. Writing things with your hands requires motor skills, and this activates more regions of the brain. Education researchers have discovered that handwritten notes result in more learning than notes taken on a keyboard.
 
@@ -56,22 +55,24 @@ Find a friend who is willing to help you, become active on Reddit forums, send L
 
 No matter how good you get, how long you've worked in the industry, you will never feel like you've mastered this stuff. Only that you're capable of figuring it out.
 
+![Dev Mindset](/assets/dev-mindset.jpeg)
+
 It will feel like every line of code you write will crash your program, your terminal will give you an error that wasn't there yesterday, and your Macbook is conspiring against you to pick a different career path. 
 
-You're gonna feel really stupid every single day. Such is life. 
+You're gonna feel really stupid every single day. Get comfortable with that. 
 
 ## 9) Never lose momentum.
 
-Every time you code should elevate your skills, ambition, and confidence, even if just by a little bit. The following graph represents this point nicely. 
+Every time you code should elevate your skills, ambition, and confidence, even if just a little bit. The following graph represents this point nicely. 
 
 ![The difference between success and failure](/assets/compounding.png)
 
 This is a graph showing the viral coefficient of a consumer product. If every user brings in 1.01 new users to the site, you will be in this happy place of compounding exponential growth forever. But if each user only brings in .99, the company will inevitably flatline and die. 
 
-This is just one concrete example of how the tiniest bit more effort compounded over time can make the difference between massive suceess and failure. Learn at least one new thing every time you code, and nothing can slow you down.
+This is just one concrete example of how the tiniest difference compounded over time can make the difference between massive suceess and failure. 
 
 ## 10) Change sports.
 
-Programming is a bottomless pit of things to learn, and it's real easy to stick with what you know and what you're currently good at. If you're a front end developer, take on some back end projects. If you are a strong Python programmer, try recreating your projects in Java.
+Programming is a bottomless pit, and it's real easy to stick with what you know, and what you're currently good at. If you're a front end developer, take on some back end projects. If you are a strong Python programmer, try recreating your projects in Java.
 
 Most of the goal here is to gain exposure and experience with a wide variety of technologies, languages, and applications. More practice won't make you better if you're just flexing what you know, go do something you're bad it. You'll learn faster.
