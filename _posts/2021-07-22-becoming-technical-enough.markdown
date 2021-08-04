@@ -4,6 +4,9 @@ title:  "Learning to Code without spending a dime."
 date:   2021-07-20 22:19:43 -0500
 categories: technology
 ---
+
+>"Writing is nature's way of letting you know how sloppy your thinking is." -Guindon
+
 Y Combinator has many videos on their YouTube channel titled "How to Build the Future." 
 
 The key word here, is **build**. 
