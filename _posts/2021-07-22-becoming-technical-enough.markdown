@@ -9,67 +9,70 @@ categories: technology
 
 Y Combinator has many videos on their YouTube channel titled "How to Build the Future." 
 
-The key word here, is **build**. 
+The key word in that sentence, is **build**. 
 
-You can't change the world if you literally cannot build the thing that will change the world. This means that if you are a solo nontechnical founder, it is your responsibility to become technical enough to build/launch/iterate an MVP. These are the things I wished someone had told me while trying to become technical enough to start a startup.
+You can't change the world if you cannot **actually build** the thing that will change the world. This means if you are a solo nontechnical founder, it is your responsibility to become *technical enough* to build/launch/iterate an MVP. 
 
-## 1) "Coding" isn't as big a deal as you think.
+Here are some lessons I picked up:
 
-The whole point of programming is to build things. The "coding" part is merely the *assembly* portion. It is a means to the end goal of building stuff. All of the other stuff, which language to learn, which IDE to use, design patterns, are *an order of magnitude less important* than building what you want. Learning syntax is largely a waste of time because maybe 1% of what you're learning will be relevant to the project you want to build, and that will result in unnecessary frustration.
+## 1) Learn by Doing.
 
-## 2) Learn by doing.
+>"You will never learn programming by watching a video called 'learn programming'. The only way to learn programming is to keep pushing on a project." - George Hotz
 
-I wasted a lot of time cycling through endless videos, books, and freeCodeCamp challenges before I finally heard George Hotz say "You will never learn programming by watching a video called 'learn programming'. The only way to learn programming is to keep pushing on a project." Once I switched from tutorials to an actual project, I had my MVP launched within a week. 
+I wasted a lot of time cycling through endless videos, books, and freeCodeCamp challenges before I finally switched from tutorials to an actual project. 
+
+Go from this,
 
 ![freeCodeCamp](/assets/fcc.png)
 
-Tutorials will not teach you programming
+to this. 
+
 ![GitHub](/assets/github.png)
 
-Building things will.
-
-## 3) Google it.
+## 2) Google It.
 
 Every technical question you could possibly have has already been answered on Google and StackOverflow. 
 
-Every.single.one. 
+Every.
+single.
+one. 
 
-It is an infinitely more efficient use of your time *finding the person who already solved your problem* than it is to solve everything problem from scratch.
+It is an infinitely more efficient use of your time finding someone who already solved your problem, than to solve everything yourself from scratch.
 
-## 4) Write psuedocode first.
+## 3) Write Psuedocode on a Whiteboard.
 
-The whiteboard is the ultimate test of your programming ability. Pretend like you're the computer and write out the code that will do what you want. Once you do that, then go to your IDE, write it, and test. If it crashes, your thought process was wrong, then go to Google and Stack Overflow to figure it out. 
+The whiteboard is the ultimate test of your programming knowledge! 
 
-As an extension, it's important to handwrite your psuedocode on a whiteboard. Writing things with your hands requires motor skills, and this activates more regions of the brain. Education researchers have discovered that handwritten notes result in more learning than notes taken on a keyboard.
+Pretend you're the computer and write out code that will do what you want. Once you do that, then go to your IDE, write it, and test. If it crashes, your thought process was wrong, and you can use Google and Stack Overflow to fix it.
 
-## 5) Iterate incrementally.
+As an extension, it's important to write your psuedocode on a whiteboard, or at least with your hand. Writing things out by hand requires motor skills, which activates more regions of the brain. Education researchers have discovered that handwritten notes result in more learning than notes taken on a keyboard.
 
-Changes to your code base should be made incrementally. If you make 15 changes to your project, deploy it and the whole program crashes, you have no idea which of the 15 changes caused it to crash. You're not yet technical enough to identify which of the 15 changes caused the crash, and it will result in a lot of unnecessary frustration. The number of times I've needed to delete my repository and create a new app from scratch is embarassing. 
+## 4) Start by Iterating Incrementally.
 
-## 6) Invest in tools.
+Changes to your code base should be made one at a time. If you make 15 changes to your codebase, and the whole program crashes, you have no idea which of the 15 changes caused it to crash. 
 
-Learning to code is a daunting task in and of itself, so the tools that allow you to do it should make the process as seamless as possible. Get an RGB mechanical keyboard off Amazon, buy a 2nd monitor, get some nice noise cancelling headphones, a fancy gaming chair, and a couple of whiteboards. Anything you can do to make the process easier, more pleasant, and more fun will result in you doing it more, and that's how you improve.
+You're not yet technical enough to identify which of the 15 changes caused the crash, and it will result in a lot of unnecessary frustration. I would just delete the repository and create a new one from scratch. Quite inefficient. 
 
-## 7) Don't go at it alone.
+## 5) Invest in Your Tools.
 
-Find a friend who is willing to help you, become active on Reddit forums, send LinkedIn messages to people who are doing the things you want to do. Surround yourself (either physically or digitally) with people who will elevate your skills, and you will raise your game to be accepted by the pack. Having **just one person** who believes in you can make the difference between success and failure.
+Learning to code is a daunting task in and of itself, so the tools that allow you to do it should make the process as seamless as possible. 
 
-## 8) Get comfortable feeling stupid.
+Get a mechanical keyboard, buy a 2nd monitor, some nice noise cancelling headphones, a fancy gaming chair, and a couple of whiteboards. You want the tools you use to encourage you to do more.
 
-No matter how good you get, how long you've worked in the industry, you will never feel like you've mastered this stuff. Only that you're capable of figuring it out.
+## 6) Don't Go at it Alone.
 
-![Dev Mindset](/assets/dev-mindset.jpeg)
-
-It will feel like every line of code you write will crash your program, your terminal will give you an error that wasn't there yesterday, and your Macbook is conspiring against you to pick a different career path. 
-
-You're gonna feel really stupid every single day. Get comfortable with that. 
-
-## 9) Never lose momentum.
-
-Every time you code should elevate your skills, ambition, and confidence, even if just a little bit. The following graph represents this point nicely. 
+Having **just one person** who believes in you can make the difference.
 
 ![The difference between success and failure](/assets/compounding.png)
 
-This is a graph showing the viral coefficient of a consumer product. If every user brings in 1.01 new users to the site, you will be in this happy place of compounding exponential growth forever. But if each user only brings in .99, the company will inevitably flatline and die. 
+The graph above represents the viral coefficient of a consumer product. Basically, if every user brings in 1.01 new users, you are in this happy place of exponential growth forever. If it's .99, the company will flatline and inevitably die. This is an extreme, but concrete example how just a tiny bit of extra effort can mean the difference between success and failure.
 
-This is just one concrete example of how the tiniest difference compounded over time can make the difference between massive suceess and failure. 
+## 7) Imposter Syndrome Won't Go Away.
+
+![Dev Mindset](/assets/dev-mindset.jpeg)
+
+You're gonna feel really stupid every single day. Get comfortable with that. 
+
+## 8) Know Your Next Commit.
+
+I used to git push every change I made to a repo even if the contribution was negligible at best. It's a lot of patting yourself on the back for making a commit, but *better commits* are better than *more commits*.
