@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Learning to Code without spending a dime."
+title:  "Learning to Code Without Spending a Dime."
 date:   2021-07-20 22:19:43 -0500
-categories: technology
+categories: programming
 ---
 
 >"Writing is nature's way of letting you know how sloppy your thinking is." -Guindon
