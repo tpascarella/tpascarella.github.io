@@ -76,3 +76,7 @@ You're gonna feel really stupid every single day. Get comfortable with that.
 ## 8) Know Your Next Commit.
 
 I used to git push every change I made to a repo even if the contribution was negligible at best. It's a lot of patting yourself on the back for making a commit, but *better commits* are better than *more commits*.
+
+## 9) Sign Up for the Odin Project.
+
+The Odin project is the best resource I have found to become a full stack developer. It's an open source project that "is the coding resource we had when we got started."
