@@ -63,7 +63,13 @@ You're not yet technical enough to identify which of the 15 changes caused the c
 
 Learning to code is a daunting task in and of itself, so the tools that allow you to do it should make the process as seamless as possible. 
 
-Get a mechanical keyboard, buy a 2nd monitor, some nice noise cancelling headphones, a fancy gaming chair, and a couple of whiteboards. The tools you use should allow you yo produce the highest quality work with the least amount of frustration.
+Here are some recommendations:
+- A nice mechanical keyboard & mouse
+- A 2nd monitor
+- Noise cancelling headphones
+- Blue light glasses
+- Comfortable chair
+
 
 ## 7) Don't Go at it Alone.
 
