@@ -59,7 +59,9 @@ Changes to your code base should be made one at a time. If you make 15 changes t
 
 You're not yet technical enough to identify which of the 15 changes caused the crash, and it will result in a lot of unnecessary frustration. I would just delete the repository and create a new one from scratch. Quite inefficient. 
 
-## 6) Invest in Your Tools.
+## 6) Invest in Your Equipment.
+
+![Equipment](/assets/Setup.heic)
 
 Learning to code is a daunting task in and of itself, so the tools that allow you to do it should make the process as seamless as possible. 
 
@@ -69,7 +71,6 @@ Here are some recommendations:
 - Noise cancelling headphones
 - Blue light glasses
 - Comfortable chair
-
 
 ## 7) Don't Go at it Alone.
 
