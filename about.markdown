@@ -19,4 +19,4 @@ You can find the source code for Jekyll at GitHub:
 
 --->
 
-Check out my startup at [sr50.finance](https://sr50.finance).
+Check out [sr50.finance](https://sr50.finance).
