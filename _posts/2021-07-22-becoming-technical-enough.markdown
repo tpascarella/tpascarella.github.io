@@ -11,9 +11,9 @@ Y Combinator has many videos on their YouTube channel titled "How to Build the F
 
 The key word in that sentence, is **build**. 
 
-You can't change the world if you cannot **actually build** the thing that will change the world. This means if you are a solo nontechnical founder, it is your responsibility to become *technical enough* to build/launch/iterate an MVP. 
+You can't change the world if you **cannot actually build the thing that will change the world**. This means if you are a solo nontechnical founder, it is your responsibility to become *technical enough* to build/launch/iterate multiple MVPs. 
 
-Here are some lessons I picked up:
+Here is what I would have told myself when I started:
 
 ## 1) Sign Up for the Odin Project.
 
