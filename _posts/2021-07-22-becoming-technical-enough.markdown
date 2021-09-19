@@ -19,7 +19,9 @@ Here are some lessons I picked up:
 
 [The Odin Project](https://www.theodinproject.com/about) is the best resource I have found to become a full stack developer. 
 
-It's an open source project that "is the coding resource we had when we got started." It lays out the entire path, from nothing up to a job ready coder. It provides structure and direction that you would otherwise have to figure out on your own.
+It's an open source project that is, "the coding resource we had when we got started." 
+
+It lays out the entire path, from nothing up to a job ready coder. It provides structure and direction that you would otherwise have to figure out on your own through trial and error.
 
 ## 2) Learn by Doing.
 
