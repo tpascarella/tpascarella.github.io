@@ -82,10 +82,10 @@ Having **even one person** who believes in you can make all the difference.
 
 ## 8) Imposter Syndrome Won't Go Away For a Very Long Time.
 
-![Dev Mindset](/assets/dev-mindset.jpeg =50%)
+![Dev Mindset](/assets/dev-mindset.jpeg)
 
 You're gonna feel really stupid every single day for a very long time. Get comfortable with that. 
 
-## 9) Apply Sooner Than You Think You're Ready
+## 9) Apply Sooner Than You Think You're Ready.
 
 An estimates 63% of employers view applicants to entry level developer positions (mostly computer science grads) as lacking in basic programming knowledge. your competition is not particularly formidable. So apply early, you just might get lucky.
