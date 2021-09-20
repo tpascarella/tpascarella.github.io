@@ -63,9 +63,9 @@ You're not yet technical enough to identify which of the 15 changes caused the c
 
 ## 6) Invest in Your Equipment.
 
-Learning to code is a daunting task in and of itself, so the tools that allow you to do it should make the process as seamless as possible. 
+Learning to code is a daunting task in and of itself, so the tools that allow you to do your work should reduce as much friction as possible. 
 
-Here are some recommendations:
+Here are some good places to spend money:
 - A nice mechanical keyboard & mouse
 - A 2nd monitor
 - Noise cancelling headphones
@@ -85,3 +85,7 @@ Having **even one person** who believes in you can make all the difference.
 ![Dev Mindset](/assets/dev-mindset.jpeg)
 
 You're gonna feel really stupid every single day for a very long time. Get comfortable with that. 
+
+## 9) Apply Sooner Than You Think You're Ready
+
+An estimates 63% of employers view applicants to entry level developer positions (mostly computer science grads) as lacking in basic programming knowledge. your competition is not particularly formidable. So apply early, you just might get lucky.
