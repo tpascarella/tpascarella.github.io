@@ -82,7 +82,7 @@ Having **even one person** who believes in you can make all the difference.
 
 ## 8) Imposter Syndrome Won't Go Away For a Very Long Time.
 
-![Dev Mindset](/assets/dev-mindset.jpeg)
+![Dev Mindset](/assets/dev-mindset.jpeg =50%)
 
 You're gonna feel really stupid every single day for a very long time. Get comfortable with that. 
 
