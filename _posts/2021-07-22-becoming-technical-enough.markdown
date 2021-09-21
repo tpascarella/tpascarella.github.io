@@ -37,7 +37,7 @@ to this.
 
 ![GitHub](/assets/github.png)
 
-## 3) Google It.
+## 3) Google Everything.
 
 Every technical question you could possibly have has already been answered on Google and StackOverflow. 
 
@@ -80,12 +80,16 @@ The graph above represents the viral coefficient of a consumer product. Basicall
 
 Having **even one person** who believes in you can make all the difference.
 
-## 8) Imposter Syndrome Won't Go Away For a Very Long Time.
+## 8) Deep Work Isn't Optional.
 
-![Dev Mindset](/assets/dev-mindset.jpeg)
-
-You're gonna feel really stupid every single day for a very long time. Get comfortable with that. 
+You can't passively learn coding. The material is too hard for it to stick if you aren't giving your full cognitive capacity to it. So get some noise cancelling headphones, buckle down and study. It's the only way you'll learn.
 
 ## 9) Apply Sooner Than You Think You're Ready.
 
 An estimates 63% of employers view applicants to entry level developer positions (mostly computer science grads) as lacking in basic programming knowledge. your competition is not particularly formidable. So apply early, you just might get lucky.
+
+## 10) Imposter Syndrome Won't Go Away For a Very Long Time.
+
+![Dev Mindset](/assets/dev-mindset.jpeg)
+
+You're gonna feel really stupid every single day for a very long time. Get comfortable with that. 
