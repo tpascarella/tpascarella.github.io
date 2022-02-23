@@ -19,4 +19,4 @@ You can find the source code for Jekyll at GitHub:
 
 --->
 
-Check out [sr50.finance](https://sr50.finance).
+Never submit to entropy.
