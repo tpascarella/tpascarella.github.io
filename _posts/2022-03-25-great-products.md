@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Great Products"
+title:  "Products I'd Recommend to Anyone"
 date:   2022-02-22 22:18:43 -0500
 categories: products
 ---
