@@ -19,4 +19,4 @@ You can find the source code for Jekyll at GitHub:
 
 --->
 
-Never submit to entropy.
+I write books and make websites.
